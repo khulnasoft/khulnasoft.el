@@ -1,7 +1,5 @@
 # khulnasoft.el
 
----
-
 [![Twitter Follow](https://img.shields.io/badge/style--blue?style=social&logo=twitter&label=Follow%20%40khulnasoft)](https://twitter.com/intent/follow?screen_name=khulnasoft)
 ![License](https://img.shields.io/github/license/KhulnaSoft/khulnasoft.vim)
 [![Docs](https://img.shields.io/badge/KhulnaSoft%20Docs-09B6A2)](https://docs.khulnasoft.com)
